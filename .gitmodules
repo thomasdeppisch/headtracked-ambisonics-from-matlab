@@ -1,3 +1,6 @@
 [submodule "dependencies/eMagLS"]
 	path = dependencies/eMagLS
 	url = git@github.com:thomasdeppisch/eMagLS.git
+[submodule "dependencies/Spherical-Harmonic-Transform"]
+	path = dependencies/Spherical-Harmonic-Transform
+	url = git@github.com:polarch/Spherical-Harmonic-Transform.git
